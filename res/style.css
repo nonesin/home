@@ -1,4 +1,5 @@
 .m{
+	overflow: auto;
 	background-repeat: no-repeat;
 	background-color:#0f0f0f;
 	overflow:auto;
