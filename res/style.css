@@ -1,16 +1,9 @@
 .m{
-	overflow: auto;
 	background-repeat: no-repeat;
 	background-color:#0f0f0f;
-	overflow:auto;
-	width:100%;
-	height:100%;
-	position:fixed;
-	width:100%;
-	height:100%;
 }
 .m_d{
-	margin-top: 80px;
+	margin-top: 20px;
 	text-align:center;
 }
 .m_l{ 
